@@ -1,0 +1,9 @@
+{
+    "manifest_version": 2,
+    "name": "Awesome thing",
+    "version": "0.0.1",
+    "description": "Its just freaking awesome.",
+    "browser_action": {
+	"default_icon": "world.png"
+    }    
+}
